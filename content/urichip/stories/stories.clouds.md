@@ -1,0 +1,17 @@
+/*
+author: john
+title: Clouds 
+date: 1996-02-08
+*/
+
+I met Meg during my time as a Peace Corps Volunteer in Thailand, just after college, in 1983. For the first 3 months of our 2 year hitch we studied the THAI language together with Brian, Sheri, and Lisa and 2 language instructors; Ajaan Kannikar and Ajaan Tongchai. Who knows why we all ended up in the same group; I mean we did select each other, but we'd only known each other 2 days. It was kind of like choosing sides for kickball when you were a kid. 
+[[#ENDSUMMARY]]
+The THAI language was not an easy language to learn. And the language was not the only thing new to us. I mean, we were all in a completely different world for the first times in our lives! It was invigorating, and wonderful, and scary, and exciting, and sometimes lonely. We spent the next 3 months studying the THAI language with the enthusiasm typical of children on their first trip to Disney Land. It was a team effort; the bravest would give the others the courage to ride the roller coaster. Another time, the cleverest would guide the others through the hall of mirrors. When someone got lost, someone was there to help them find their way back. 
+
+For three months, we were family. We studied, played, laughed, sang, and cried together. We were together at least 10 hours every day for those 3 months. We learned more about each other and ourselves than we expected (or at times wanted)! Meg was a fighter. The Thai language did not come to her as easy as it did to some others in the group. She fought furiously to learn what she could. She never gave up, no matter how small her successes. It was inspiring to the rest of us to experience the struggle and effort she gave to this task for what others would measure as very small rewards. After the 3 months we each went our separate ways to our assignments in various parts of Thailand. Families move on and each sibling gets his own life, but we stayed together in spirit. As the years have gone by, we keep in touch less and less; but when we do have that chance to write, or talk, it is still easy and very satisfying. 
+
+In the Thai language the word for "CLOUD" is a word that sounds very much like "MEG". This gave Meg an immediate connection to her new Thai friends that none of us could share ( a bit of sibling rivalry!). Early on, our language ability did not extend very far past "Hello", "How are you?", and "What's your name?". After these few phrases, we'd be in verbal limbo and have to resort to communicating through goofy faces and hand gestures. Meg had a particularly good trick under these situations. After having told them her name, she'd stretch her arm up to the sky, point to the clouds, and repeat her name..."MEG". Invariably, a smile of understanding would beam from the face of her new Thai friend. They had communicated more than her name; there was some added meaning that they also communicated. Meg became the person that each of them remembered! Of course Meg is remembered for much more than this, but this one gesture connected Meg to her new Thai friends in a way that we could not share. 
+
+Meg passed away this year. Of natural causes. I think of her now, Meg, her short body with arm reaching skyward, stretching up to the clouds. The clouds wander across the sky speaking some mysterious language to us. I like to think Meg still shares her connection with us, but now she's stretching down from the clouds to us. Reach out! 
+
+John Del Ferro /Taegu,Korea/08FEB96 

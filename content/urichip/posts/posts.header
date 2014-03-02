@@ -1,0 +1,20 @@
+!{title}
+<p class="post-footer post_meta"> 
+<a href="main.{p1}"><span class="label label-info">{p1}</span></a>
+  | <a class="icon-calendar"></a> [(time "{:pubdatets}" "%A %B %d %Y")]
+  | <a class="icon-user"></a> <a href="login.{:author}">{:author}</a>
+  | <a class="icon-comment"></a> [if exists {p}.comments][[{p}#comments|{:comments} Comments|class="comments"]][else][[{p}#comments|Comments|class="comments"]][if]
+  [if login]| <a class="icon-edit"></a> [[{p}&action=postsedit|<span class="label label-info">edit</span>|class="edit"]][if]</p>
+~data~
+author: jacmgr
+~
+changesummary: Page edited by jacmgr.
+~
+title: Header
+~
+pubdatetext: 01 January 1970
+~
+pubdatets: 20130619
+~
+pubdatetxt: 20130619
+~

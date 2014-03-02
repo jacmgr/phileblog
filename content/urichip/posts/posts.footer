@@ -1,0 +1,15 @@
+<div class="post-footer box">Published: {:pubdate} / {:author} / {title} [if login]/ ([[{p}&action=postsedit|edit this post]])[if]</div>
+[[#comments]]
+/*
+displaycomments: true
+*/
+[if equal {posts.footer::displaycomments} true]
+[if* ! equal  {p} 'posts']<embed disqus>[if*]
+[else]
+//Comments are turned off in footer//
+[if]
+~data~
+author: jacmgr
+~
+changesummary: Page edited by jacmgr.
+~
